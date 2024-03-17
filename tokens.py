@@ -1,4 +1,4 @@
-vk_access_token = 'vk1.a.OTooxmeISxFuQiODaFiTU5sILPKEXAGtN7VJzbj1g3ZNVp7VW66FtrWKLBFswEL67mnRSVGYR4aFi5DPS8n7RrgmAhdnwh43W9GDtOsNTUTfKyUx3m0Vg0H0LxE478QuoKWPlShSz0rqkvxqcAjzUTXaKhRJut05-bkHsVMJKGZ2f7lXKkOfnjbs2jVAheJQjVCCaRb4L386MDqVCbguEw'
-ya_token = 'y0_AgAAAAAE-cCkAADLWwAAAADyTLo_OxLxL61dSb-bhirCD94qXmSlLVE'
+vk_access_token = 
+ya_token = 
 user_id = '17'
 
